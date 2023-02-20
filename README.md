@@ -8,6 +8,7 @@ The program supports all CRUD operations.
 
 Technology stack:
 - Spring MVC
+- Jackson API
 - Lombok
 
 <br>
