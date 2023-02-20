@@ -22,7 +22,7 @@ public class App
 //        student.setId(5);
 //        communication.saveStudent(student);
 
-        communication.deleteStudent(6);
+//        communication.deleteStudent(6);
 
     }
 }
